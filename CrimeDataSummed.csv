@@ -1,0 +1,703 @@
+Council,Year,Sum
+Alpine,2016,184
+Alpine,2017,149
+Alpine,2018,195
+Alpine,2019,214
+Alpine,2020,246
+Alpine,2021,234
+Alpine,2022,228
+Alpine,2023,169
+Alpine,2024,189
+Ararat,2016,460
+Ararat,2017,519
+Ararat,2018,460
+Ararat,2019,498
+Ararat,2020,433
+Ararat,2021,633
+Ararat,2022,591
+Ararat,2023,496
+Ararat,2024,509
+Ballarat,2016,3392
+Ballarat,2017,3246
+Ballarat,2018,3115
+Ballarat,2019,3180
+Ballarat,2020,3137
+Ballarat,2021,3341
+Ballarat,2022,2834
+Ballarat,2023,3295
+Ballarat,2024,3732
+Banyule,2016,2866
+Banyule,2017,2641
+Banyule,2018,2775
+Banyule,2019,2900
+Banyule,2020,2948
+Banyule,2021,3180
+Banyule,2022,2361
+Banyule,2023,2685
+Banyule,2024,2877
+Bass Coast,2016,1099
+Bass Coast,2017,970
+Bass Coast,2018,992
+Bass Coast,2019,822
+Bass Coast,2020,797
+Bass Coast,2021,1162
+Bass Coast,2022,1058
+Bass Coast,2023,1127
+Bass Coast,2024,1127
+Baw Baw,2016,1386
+Baw Baw,2017,1437
+Baw Baw,2018,1380
+Baw Baw,2019,1477
+Baw Baw,2020,1574
+Baw Baw,2021,2009
+Baw Baw,2022,1627
+Baw Baw,2023,1539
+Baw Baw,2024,1887
+Bayside,2016,1197
+Bayside,2017,1313
+Bayside,2018,1330
+Bayside,2019,1203
+Bayside,2020,1092
+Bayside,2021,1585
+Bayside,2022,1126
+Bayside,2023,1373
+Bayside,2024,1609
+Benalla,2016,436
+Benalla,2017,533
+Benalla,2018,509
+Benalla,2019,475
+Benalla,2020,510
+Benalla,2021,468
+Benalla,2022,550
+Benalla,2023,536
+Benalla,2024,574
+Boroondara,2016,1605
+Boroondara,2017,1969
+Boroondara,2018,1678
+Boroondara,2019,1567
+Boroondara,2020,1634
+Boroondara,2021,2108
+Boroondara,2022,1664
+Boroondara,2023,1747
+Boroondara,2024,2180
+Brimbank,2016,5398
+Brimbank,2017,5358
+Brimbank,2018,5386
+Brimbank,2019,5729
+Brimbank,2020,5759
+Brimbank,2021,7299
+Brimbank,2022,4765
+Brimbank,2023,5144
+Brimbank,2024,5422
+Buloke,2016,80
+Buloke,2017,61
+Buloke,2018,70
+Buloke,2019,79
+Buloke,2020,84
+Buloke,2021,143
+Buloke,2022,118
+Buloke,2023,164
+Buloke,2024,143
+Campaspe,2016,1142
+Campaspe,2017,1149
+Campaspe,2018,1189
+Campaspe,2019,1136
+Campaspe,2020,1268
+Campaspe,2021,1299
+Campaspe,2022,1130
+Campaspe,2023,1186
+Campaspe,2024,1443
+Cardinia,2016,2200
+Cardinia,2017,2156
+Cardinia,2018,1784
+Cardinia,2019,1894
+Cardinia,2020,2244
+Cardinia,2021,2956
+Cardinia,2022,2053
+Cardinia,2023,2207
+Cardinia,2024,2385
+Casey,2016,6194
+Casey,2017,6839
+Casey,2018,6264
+Casey,2019,6770
+Casey,2020,7040
+Casey,2021,8590
+Casey,2022,6252
+Casey,2023,7047
+Casey,2024,7794
+Central Goldfields,2016,495
+Central Goldfields,2017,542
+Central Goldfields,2018,528
+Central Goldfields,2019,534
+Central Goldfields,2020,458
+Central Goldfields,2021,483
+Central Goldfields,2022,423
+Central Goldfields,2023,420
+Central Goldfields,2024,538
+Colac-Otway,2016,675
+Colac-Otway,2017,750
+Colac-Otway,2018,568
+Colac-Otway,2019,594
+Colac-Otway,2020,599
+Colac-Otway,2021,759
+Colac-Otway,2022,701
+Colac-Otway,2023,611
+Colac-Otway,2024,669
+Corangamite,2016,250
+Corangamite,2017,352
+Corangamite,2018,326
+Corangamite,2019,226
+Corangamite,2020,255
+Corangamite,2021,363
+Corangamite,2022,276
+Corangamite,2023,234
+Corangamite,2024,294
+Darebin,2016,3681
+Darebin,2017,4042
+Darebin,2018,3638
+Darebin,2019,3610
+Darebin,2020,3517
+Darebin,2021,5244
+Darebin,2022,3779
+Darebin,2023,3819
+Darebin,2024,4253
+East Gippsland,2016,1716
+East Gippsland,2017,1699
+East Gippsland,2018,1770
+East Gippsland,2019,1803
+East Gippsland,2020,1834
+East Gippsland,2021,2195
+East Gippsland,2022,1881
+East Gippsland,2023,1807
+East Gippsland,2024,2140
+Frankston,2016,5328
+Frankston,2017,5825
+Frankston,2018,5099
+Frankston,2019,5182
+Frankston,2020,4935
+Frankston,2021,6114
+Frankston,2022,4416
+Frankston,2023,4831
+Frankston,2024,5428
+Gannawarra,2016,226
+Gannawarra,2017,291
+Gannawarra,2018,210
+Gannawarra,2019,323
+Gannawarra,2020,370
+Gannawarra,2021,400
+Gannawarra,2022,293
+Gannawarra,2023,258
+Gannawarra,2024,422
+Glen Eira,2016,1631
+Glen Eira,2017,1947
+Glen Eira,2018,1742
+Glen Eira,2019,1537
+Glen Eira,2020,1660
+Glen Eira,2021,2286
+Glen Eira,2022,1730
+Glen Eira,2023,1802
+Glen Eira,2024,2084
+Glenelg,2016,643
+Glenelg,2017,671
+Glenelg,2018,645
+Glenelg,2019,570
+Glenelg,2020,656
+Glenelg,2021,643
+Glenelg,2022,723
+Glenelg,2023,637
+Glenelg,2024,709
+Golden Plains,2016,151
+Golden Plains,2017,203
+Golden Plains,2018,197
+Golden Plains,2019,155
+Golden Plains,2020,159
+Golden Plains,2021,190
+Golden Plains,2022,151
+Golden Plains,2023,192
+Golden Plains,2024,179
+Greater Bendigo,2016,3013
+Greater Bendigo,2017,3667
+Greater Bendigo,2018,3463
+Greater Bendigo,2019,3657
+Greater Bendigo,2020,3836
+Greater Bendigo,2021,4026
+Greater Bendigo,2022,3612
+Greater Bendigo,2023,3569
+Greater Bendigo,2024,3992
+Greater Dandenong,2016,5996
+Greater Dandenong,2017,6359
+Greater Dandenong,2018,5920
+Greater Dandenong,2019,6038
+Greater Dandenong,2020,5990
+Greater Dandenong,2021,7544
+Greater Dandenong,2022,5051
+Greater Dandenong,2023,5978
+Greater Dandenong,2024,6122
+Greater Geelong,2016,5578
+Greater Geelong,2017,6377
+Greater Geelong,2018,6336
+Greater Geelong,2019,6420
+Greater Geelong,2020,6554
+Greater Geelong,2021,7561
+Greater Geelong,2022,6339
+Greater Geelong,2023,6402
+Greater Geelong,2024,7227
+Greater Shepparton,2016,2606
+Greater Shepparton,2017,3030
+Greater Shepparton,2018,3019
+Greater Shepparton,2019,3000
+Greater Shepparton,2020,2922
+Greater Shepparton,2021,3164
+Greater Shepparton,2022,2928
+Greater Shepparton,2023,2956
+Greater Shepparton,2024,3228
+Hepburn,2016,202
+Hepburn,2017,246
+Hepburn,2018,221
+Hepburn,2019,224
+Hepburn,2020,275
+Hepburn,2021,246
+Hepburn,2022,166
+Hepburn,2023,170
+Hepburn,2024,219
+Hindmarsh,2016,106
+Hindmarsh,2017,115
+Hindmarsh,2018,148
+Hindmarsh,2019,148
+Hindmarsh,2020,118
+Hindmarsh,2021,110
+Hindmarsh,2022,151
+Hindmarsh,2023,109
+Hindmarsh,2024,123
+Hobsons Bay,2016,2125
+Hobsons Bay,2017,1919
+Hobsons Bay,2018,1804
+Hobsons Bay,2019,2181
+Hobsons Bay,2020,1918
+Hobsons Bay,2021,2153
+Hobsons Bay,2022,1863
+Hobsons Bay,2023,1866
+Hobsons Bay,2024,1985
+Horsham,2016,1192
+Horsham,2017,1041
+Horsham,2018,950
+Horsham,2019,828
+Horsham,2020,764
+Horsham,2021,895
+Horsham,2022,844
+Horsham,2023,939
+Horsham,2024,1091
+Hume,2016,5628
+Hume,2017,6149
+Hume,2018,5682
+Hume,2019,6767
+Hume,2020,6325
+Hume,2021,8626
+Hume,2022,5427
+Hume,2023,5733
+Hume,2024,6023
+Indigo,2016,139
+Indigo,2017,213
+Indigo,2018,153
+Indigo,2019,147
+Indigo,2020,145
+Indigo,2021,219
+Indigo,2022,167
+Indigo,2023,273
+Indigo,2024,219
+Kingston,2016,3459
+Kingston,2017,3361
+Kingston,2018,3127
+Kingston,2019,3446
+Kingston,2020,3372
+Kingston,2021,3954
+Kingston,2022,2690
+Kingston,2023,3384
+Kingston,2024,3829
+Knox,2016,2957
+Knox,2017,3313
+Knox,2018,3430
+Knox,2019,3340
+Knox,2020,3335
+Knox,2021,3957
+Knox,2022,3190
+Knox,2023,3326
+Knox,2024,3452
+Latrobe,2016,5107
+Latrobe,2017,5431
+Latrobe,2018,5136
+Latrobe,2019,5359
+Latrobe,2020,4736
+Latrobe,2021,5373
+Latrobe,2022,4365
+Latrobe,2023,4651
+Latrobe,2024,5164
+Loddon,2016,134
+Loddon,2017,181
+Loddon,2018,123
+Loddon,2019,168
+Loddon,2020,145
+Loddon,2021,192
+Loddon,2022,201
+Loddon,2023,143
+Loddon,2024,143
+Macedon Ranges,2016,681
+Macedon Ranges,2017,752
+Macedon Ranges,2018,664
+Macedon Ranges,2019,765
+Macedon Ranges,2020,722
+Macedon Ranges,2021,1070
+Macedon Ranges,2022,777
+Macedon Ranges,2023,635
+Macedon Ranges,2024,755
+Manningham,2016,1099
+Manningham,2017,1283
+Manningham,2018,1235
+Manningham,2019,1119
+Manningham,2020,1259
+Manningham,2021,1410
+Manningham,2022,1129
+Manningham,2023,1149
+Manningham,2024,1451
+Mansfield,2016,171
+Mansfield,2017,266
+Mansfield,2018,194
+Mansfield,2019,142
+Mansfield,2020,158
+Mansfield,2021,208
+Mansfield,2022,180
+Mansfield,2023,118
+Mansfield,2024,192
+Maribyrnong,2016,2584
+Maribyrnong,2017,2512
+Maribyrnong,2018,2195
+Maribyrnong,2019,2373
+Maribyrnong,2020,2418
+Maribyrnong,2021,2900
+Maribyrnong,2022,2189
+Maribyrnong,2023,2442
+Maribyrnong,2024,2686
+Maroondah,2016,2550
+Maroondah,2017,2776
+Maroondah,2018,2727
+Maroondah,2019,2796
+Maroondah,2020,2587
+Maroondah,2021,2830
+Maroondah,2022,2437
+Maroondah,2023,2800
+Maroondah,2024,2979
+Melbourne,2016,11149
+Melbourne,2017,11572
+Melbourne,2018,11483
+Melbourne,2019,11873
+Melbourne,2020,10788
+Melbourne,2021,14082
+Melbourne,2022,11010
+Melbourne,2023,9795
+Melbourne,2024,10037
+Melton,2016,2862
+Melton,2017,3015
+Melton,2018,3011
+Melton,2019,3013
+Melton,2020,3201
+Melton,2021,4598
+Melton,2022,3405
+Melton,2023,3559
+Melton,2024,3989
+Merri-bek,2016,3331
+Merri-bek,2017,3381
+Merri-bek,2018,3390
+Merri-bek,2019,3589
+Merri-bek,2020,3346
+Merri-bek,2021,4238
+Merri-bek,2022,2959
+Merri-bek,2023,3091
+Merri-bek,2024,3440
+Mildura,2016,2343
+Mildura,2017,2777
+Mildura,2018,2551
+Mildura,2019,2816
+Mildura,2020,2906
+Mildura,2021,2731
+Mildura,2022,2634
+Mildura,2023,3056
+Mildura,2024,3373
+Mitchell,2016,1448
+Mitchell,2017,1601
+Mitchell,2018,1510
+Mitchell,2019,1541
+Mitchell,2020,1488
+Mitchell,2021,1772
+Mitchell,2022,1299
+Mitchell,2023,1337
+Mitchell,2024,1569
+Moira,2016,666
+Moira,2017,740
+Moira,2018,854
+Moira,2019,734
+Moira,2020,860
+Moira,2021,870
+Moira,2022,826
+Moira,2023,802
+Moira,2024,956
+Monash,2016,2378
+Monash,2017,2796
+Monash,2018,2556
+Monash,2019,2716
+Monash,2020,2979
+Monash,2021,4062
+Monash,2022,3011
+Monash,2023,3154
+Monash,2024,3592
+Moonee Valley,2016,2321
+Moonee Valley,2017,2563
+Moonee Valley,2018,2256
+Moonee Valley,2019,2429
+Moonee Valley,2020,2275
+Moonee Valley,2021,2875
+Moonee Valley,2022,2388
+Moonee Valley,2023,2281
+Moonee Valley,2024,2314
+Moorabool,2016,732
+Moorabool,2017,812
+Moorabool,2018,734
+Moorabool,2019,714
+Moorabool,2020,582
+Moorabool,2021,1051
+Moorabool,2022,737
+Moorabool,2023,679
+Moorabool,2024,832
+Mornington Peninsula,2016,3885
+Mornington Peninsula,2017,4130
+Mornington Peninsula,2018,3929
+Mornington Peninsula,2019,3691
+Mornington Peninsula,2020,3458
+Mornington Peninsula,2021,4414
+Mornington Peninsula,2022,3300
+Mornington Peninsula,2023,3405
+Mornington Peninsula,2024,3616
+Mount Alexander,2016,415
+Mount Alexander,2017,411
+Mount Alexander,2018,339
+Mount Alexander,2019,369
+Mount Alexander,2020,372
+Mount Alexander,2021,374
+Mount Alexander,2022,364
+Mount Alexander,2023,332
+Mount Alexander,2024,409
+Moyne,2016,222
+Moyne,2017,218
+Moyne,2018,214
+Moyne,2019,213
+Moyne,2020,247
+Moyne,2021,265
+Moyne,2022,279
+Moyne,2023,230
+Moyne,2024,208
+Murrindindi,2016,255
+Murrindindi,2017,230
+Murrindindi,2018,264
+Murrindindi,2019,291
+Murrindindi,2020,227
+Murrindindi,2021,369
+Murrindindi,2022,262
+Murrindindi,2023,269
+Murrindindi,2024,283
+Nillumbik,2016,688
+Nillumbik,2017,762
+Nillumbik,2018,683
+Nillumbik,2019,674
+Nillumbik,2020,667
+Nillumbik,2021,775
+Nillumbik,2022,602
+Nillumbik,2023,534
+Nillumbik,2024,548
+Northern Grampians,2016,469
+Northern Grampians,2017,551
+Northern Grampians,2018,518
+Northern Grampians,2019,393
+Northern Grampians,2020,414
+Northern Grampians,2021,519
+Northern Grampians,2022,501
+Northern Grampians,2023,423
+Northern Grampians,2024,425
+Port Phillip,2016,3278
+Port Phillip,2017,2996
+Port Phillip,2018,3372
+Port Phillip,2019,3233
+Port Phillip,2020,3139
+Port Phillip,2021,4282
+Port Phillip,2022,3120
+Port Phillip,2023,3009
+Port Phillip,2024,3172
+Pyrenees,2016,140
+Pyrenees,2017,136
+Pyrenees,2018,111
+Pyrenees,2019,200
+Pyrenees,2020,109
+Pyrenees,2021,165
+Pyrenees,2022,128
+Pyrenees,2023,111
+Pyrenees,2024,126
+Queenscliffe,2018,19
+Queenscliffe,2019,38
+South Gippsland,2016,506
+South Gippsland,2017,547
+South Gippsland,2018,529
+South Gippsland,2019,513
+South Gippsland,2020,591
+South Gippsland,2021,704
+South Gippsland,2022,572
+South Gippsland,2023,702
+South Gippsland,2024,736
+Southern Grampians,2016,450
+Southern Grampians,2017,550
+Southern Grampians,2018,553
+Southern Grampians,2019,683
+Southern Grampians,2020,482
+Southern Grampians,2021,469
+Southern Grampians,2022,477
+Southern Grampians,2023,475
+Southern Grampians,2024,547
+Stonnington,2016,2594
+Stonnington,2017,2930
+Stonnington,2018,2909
+Stonnington,2019,2963
+Stonnington,2020,2749
+Stonnington,2021,3907
+Stonnington,2022,2695
+Stonnington,2023,2972
+Stonnington,2024,3149
+Strathbogie,2016,169
+Strathbogie,2017,204
+Strathbogie,2018,195
+Strathbogie,2019,196
+Strathbogie,2020,180
+Strathbogie,2021,223
+Strathbogie,2022,184
+Strathbogie,2023,165
+Strathbogie,2024,176
+Surf Coast,2016,348
+Surf Coast,2017,429
+Surf Coast,2018,348
+Surf Coast,2019,339
+Surf Coast,2020,353
+Surf Coast,2021,515
+Surf Coast,2022,461
+Surf Coast,2023,381
+Surf Coast,2024,391
+Swan Hill,2016,1056
+Swan Hill,2017,1002
+Swan Hill,2018,1075
+Swan Hill,2019,1045
+Swan Hill,2020,959
+Swan Hill,2021,1209
+Swan Hill,2022,1063
+Swan Hill,2023,958
+Swan Hill,2024,935
+Towong,2016,82
+Towong,2017,106
+Towong,2018,86
+Towong,2019,63
+Towong,2020,63
+Towong,2021,67
+Towong,2022,53
+Towong,2023,69
+Towong,2024,94
+Wangaratta,2016,1022
+Wangaratta,2017,1051
+Wangaratta,2018,1066
+Wangaratta,2019,889
+Wangaratta,2020,890
+Wangaratta,2021,1022
+Wangaratta,2022,931
+Wangaratta,2023,997
+Wangaratta,2024,1016
+Warrnambool,2016,1172
+Warrnambool,2017,1310
+Warrnambool,2018,1588
+Warrnambool,2019,1749
+Warrnambool,2020,1247
+Warrnambool,2021,1334
+Warrnambool,2022,1148
+Warrnambool,2023,1214
+Warrnambool,2024,1359
+Wellington,2016,1603
+Wellington,2017,1619
+Wellington,2018,1330
+Wellington,2019,1546
+Wellington,2020,1644
+Wellington,2021,1927
+Wellington,2022,1603
+Wellington,2023,1675
+Wellington,2024,1866
+West Wimmera,2016,63
+West Wimmera,2017,60
+West Wimmera,2018,57
+West Wimmera,2019,52
+West Wimmera,2020,55
+West Wimmera,2021,57
+West Wimmera,2022,74
+Whitehorse,2016,1917
+Whitehorse,2017,2047
+Whitehorse,2018,2049
+Whitehorse,2019,2207
+Whitehorse,2020,2257
+Whitehorse,2021,2826
+Whitehorse,2022,1987
+Whitehorse,2023,2004
+Whitehorse,2024,2571
+Whittlesea,2016,3635
+Whittlesea,2017,4463
+Whittlesea,2018,4338
+Whittlesea,2019,4891
+Whittlesea,2020,4960
+Whittlesea,2021,6216
+Whittlesea,2022,4379
+Whittlesea,2023,4583
+Whittlesea,2024,4900
+Wodonga,2016,1422
+Wodonga,2017,1313
+Wodonga,2018,1290
+Wodonga,2019,1157
+Wodonga,2020,1207
+Wodonga,2021,1364
+Wodonga,2022,1260
+Wodonga,2023,1334
+Wodonga,2024,1492
+Wyndham,2016,4003
+Wyndham,2017,4338
+Wyndham,2018,4410
+Wyndham,2019,4707
+Wyndham,2020,5218
+Wyndham,2021,6502
+Wyndham,2022,4990
+Wyndham,2023,5890
+Wyndham,2024,6174
+Yarra,2016,3408
+Yarra,2017,3393
+Yarra,2018,3251
+Yarra,2019,3259
+Yarra,2020,3229
+Yarra,2021,4840
+Yarra,2022,3091
+Yarra,2023,3092
+Yarra,2024,3391
+Yarra Ranges,2016,2524
+Yarra Ranges,2017,2767
+Yarra Ranges,2018,2535
+Yarra Ranges,2019,2507
+Yarra Ranges,2020,2462
+Yarra Ranges,2021,3175
+Yarra Ranges,2022,2242
+Yarra Ranges,2023,2492
+Yarra Ranges,2024,2513
+Yarriambiack,2016,192
+Yarriambiack,2017,182
+Yarriambiack,2018,139
+Yarriambiack,2019,162
+Yarriambiack,2020,163
+Yarriambiack,2021,182
+Yarriambiack,2022,160
+Yarriambiack,2023,142
+Yarriambiack,2024,184
